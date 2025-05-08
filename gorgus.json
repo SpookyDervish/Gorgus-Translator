@@ -724,4 +724,28 @@
         "flower"
     ],
     
+    irregular_verbs = {
+        "be": "was/were",
+        "have": "had",
+        "do": "did",
+        "go": "went",
+        "see": "saw",
+        "come": "came",
+        "give": "gave",
+        "take": "took",
+        "make": "made",
+        "find": "found",
+        "know": "knew",
+        "think": "thought",
+        "say": "said",
+        "tell": "told",
+        "get": "got",
+        "give": "gave",
+        "read": "read",
+        "wear": "wore",
+        "write": "wrote",
+        "run": "ran",
+        "eat": "ate"
+    }
+    
 }
