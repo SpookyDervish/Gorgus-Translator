@@ -525,7 +525,7 @@
         "gdorp": "gdorp",
         },
 
-    "dictionary_information" = {
+    "dictionary_information": {
         "informal_words": {
             "zorper",
             "jink",
@@ -647,7 +647,7 @@
     },
     
     
-    "ignored_plurals" = [
+    "ignored_plurals": [
         "you",
         "it",
         "is",
@@ -682,7 +682,7 @@
         "forever"
     ],
 
-    "ignored_actor_nouns" = [
+    "ignored_actor_nouns": [
         "he",
         "she",
         "her",
